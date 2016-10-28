@@ -1,0 +1,2 @@
+# SeccionCritica
+Seccion Critica
